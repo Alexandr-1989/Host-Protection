@@ -24,15 +24,34 @@
   
 6.Входим за пользователя и проверяем  
  <img width="588" height="168" alt="Screenshot_27" src="https://github.com/user-attachments/assets/53dd9e00-2119-4090-8b36-7888dc09a6b5" />
+  
+Задание 2  
+Установите поддержку LUKS. Создайте небольшой раздел, например, 100 Мб. Зашифруйте созданный раздел с помощью LUKS. В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.  
+  
+Ответ:  
+1. Установка поддержки LUKS (cryptsetup).  
+<img width="758" height="218" alt="Screenshot_28" src="https://github.com/user-attachments/assets/6c531e52-3607-4da7-ba76-2e5500adf791" />  
+2. Создание раздела.  
+<img width="705" height="109" alt="Screenshot_29" src="https://github.com/user-attachments/assets/0b6ae09c-0ec2-4472-97c5-d78579a95e1c" />  
+3. Подключаем файл как блочное устройство.  
+<img width="701" height="305" alt="Screenshot_30" src="https://github.com/user-attachments/assets/e960dcf9-1eae-4380-8848-a725ad5da51c" />  
+4. Инициализация LUKS.  
+<img width="582" height="162" alt="Screenshot_31" src="https://github.com/user-attachments/assets/56fd7730-a45b-4c7b-9797-7b8119617f80" />  
+5. Открытие раздела и проверка.  
+<img width="622" height="109" alt="Screenshot_32" src="https://github.com/user-attachments/assets/f1fefc83-bfad-4658-8df0-c1c3768cc063" />  
+6. Создаем файловую систему.  
+<img width="663" height="155" alt="Screenshot_33" src="https://github.com/user-attachments/assets/28d3a7f3-8c9d-4e4f-9355-1a6da3a985a7" />  
+7. Монтирование и проверка работы.  
+<img width="669" height="128" alt="Screenshot_34" src="https://github.com/user-attachments/assets/f9984a4d-a113-4580-b504-9bd24495705a" />  
+8. Просмотр защиты.  
+<img width="670" height="142" alt="Screenshot_35" src="https://github.com/user-attachments/assets/b81fb752-6e8b-4177-b134-bd8da2ef7150" />  
+  
+Без cryptsetup open:  
+Ядро видит только зашифрованный контейнер,файловая система недоступна.  
 
 
 
-
-
-
-
-
-
+ 
 
 
 

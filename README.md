@@ -9,7 +9,7 @@
 2. Добавление пользователя cryptouser.  
 <img width="699" height="380" alt="Screenshot_18" src="https://github.com/user-attachments/assets/3a96a6e0-7589-4178-9ab3-b6f39be75371" />
   
-3.Создаем файлы  данных.  
+3. Создаем файлы  данных.  
 <img width="621" height="200" alt="Screenshot_19" src="https://github.com/user-attachments/assets/941e2017-4007-448c-9c9d-4334822153f7" />  
   
 4. Шифруем домашний каталог cryptouser.  
@@ -22,7 +22,7 @@
    Смотрим что зашифровано   
 <img width="2463" height="165" alt="Screenshot_26" src="https://github.com/user-attachments/assets/3f000251-fd71-4be0-b51b-61d117a5dbb2" />
   
-6.Входим за пользователя и проверяем  
+6. Входим за пользователя и проверяем  
  <img width="588" height="168" alt="Screenshot_27" src="https://github.com/user-attachments/assets/53dd9e00-2119-4090-8b36-7888dc09a6b5" />
   
 Задание 2  
